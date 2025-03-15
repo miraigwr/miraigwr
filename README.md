@@ -15,7 +15,8 @@
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,docker,supabase,html,css,tailwind,remix,bun,git,figma,vscode)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,docker,supabase,html,css,tailwind,remix,bun,git,figma,vscode)](https://skillicons.dev)-->
+
 </div>
 
 <div align="center">
